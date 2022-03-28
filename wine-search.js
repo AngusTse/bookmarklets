@@ -1,0 +1,1 @@
+javascript:var wineName=window.getSelection().toString().replace(/,/g, '').split(' ').join('+');window.open("https://www.vivino.com/search/wines?q="+wineName, %27vi%27);window.open("https://www.cellartracker.com/list.asp?szSearch="+wineName, %27ct%27);window.open("https://www.wine-searcher.com/find/"+wineName+"/0/hong+kong", %27ws%27);
