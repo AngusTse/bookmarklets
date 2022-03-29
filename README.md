@@ -11,6 +11,8 @@ To apply this code to your browser and use it follow the steps below:
 
 
 ## Wine Search bookmarklet [wine-search.js](wine-search.js)
-Purpose: Search wine name from Vivino, Wine Seacher and Cellar Tracker
-How-to-use:  Highlight the wine name from the page then click the bookmarklet from your bookmark bar
-Known issue: Browser may block multiple pop-up.  Please check block message from the address bar (Chrome)
+Purpose: Search wine name from Vivino, Wine Seacher and Cellar Tracker.
+
+How-to-use:  Highlight the wine name from the page then click the bookmarklet from your bookmark bar.
+
+Known issue: Browser may block multiple pop-up.  Please check block message from the address bar (Chrome).
